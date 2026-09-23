@@ -1,0 +1,4 @@
+Student Name: Francis Jordan Nodalo
+Student ID: 2025-01-15518
+Section: BSCS 2B
+Course: CS 106 App Dev
